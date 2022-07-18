@@ -1,0 +1,211 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+    line-height: 1.6em;
+    margin: 0%;    
+    background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+ background-blend-mode: multiply;
+    
+}
+h1 {
+    font-size: 2rem;
+    line-height: 1.3em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+p {
+    margin-bottom: 1.6em;
+   
+}
+
+
+.barberia img {
+    float: left;
+    border-radius: 0%;
+    padding-right: 2%;
+    
+
+}
+.container {
+    width: 95%;
+    max-width: 950px;
+    margin: 0 auto;
+    
+}
+
+.header {
+background-image: linear-gradient(-225deg, #AC32E4 0%, #48187ce5 48%, #000000e5 100%);
+color: white;
+padding: 2rem 0;
+
+position: fixed;
+left: 0;
+top: 0;
+width: 100%;
+}
+.header a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.logo-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    letter-spacing: 5px;
+    font-size: 1.3em;
+    
+}
+
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navigation ul li {
+    display: inline-block;
+}
+.navigation ul li a {
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: all 0.4s linear;
+    border-radius: 45px;
+}
+.navigation ul li a:hover{
+    background: rgb(68, 1, 68);
+
+}
+
+.servicios_titulo{
+    text-align: center; 
+    padding-top: 2rem;  
+   }
+
+.servicios{
+    text-align: center;
+    background-color: #DCD9D4;
+ background-image: linear-gradient(to bottom, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), radial-gradient(at 50% 0%, rgba(255,255,255,0.10) 0%, rgba(0,0,0,0.50) 50%);
+ background-blend-mode: soft-light,screen;
+    padding-bottom: 2rem;
+    color: #323232;
+    font-size: 1.2rem;
+}
+.opiniones{
+    height: 80rem;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+section {
+    display: block;
+}
+
+.opiniones .caja-contenedor .caja{  
+    float: left;
+    width: 800px;
+    text-align: center;
+    background-color: #ffffff;
+    margin: 1rem;   
+    padding: 3.5rem;
+    
+    
+}
+.opiniones .caja-contenedor .caja .fa-atom{
+    top: 1rem;
+    right: 2rem;
+    font-size: 8rem;
+    color: var(--limon);
+    opacity: .3;
+}
+.opiniones .caja-contenedor .caja .user img{
+    border-radius: 50%;
+    height: 8rem;
+    width: 8rem;
+    margin-top: 2rem;
+
+}
+.opiniones .caja-contenedor .caja .user h3{
+    color: black;
+    font-size: 2rem;
+}
+.opiniones .caja-contenedor .caja .user .stars i{
+    color: #fec810;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+.opiniones .caja-contenedor .caja .comentarios{
+    color: #1C1C1C;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+.form {
+    background-color: rgb(122, 122, 122);
+    width: 90%;
+    margin: auto;
+    max-width: 400px;
+    border-radius: 1em;
+    padding: 2.5em 1.5em;
+}
+.form__container {
+    width: 100%;
+    display: grid;
+    gap: 1em;  
+    grid-auto-columns: 100%;
+}
+
+.form__title {
+    text-align: center;
+    font-size: 1.9rem;
+    margin-bottom: .4em;
+}
+.form__input {
+    text-align: center;
+    font-family: inherit;
+    font-size: 1rem;
+    padding: .8em 1em;
+    outline: none;
+    border: none;
+    border: 1px solid #bbb0b0;
+    border-radius: 0.2em;
+}
+
+.form_input--message{
+resize: none;
+padding: 1.8em 1em;
+margin-bottom: .5em;
+}
+.form_cta {
+   font-family: inherit; 
+   font-size: 1rem;
+   background-color: #089fe0;
+   color: white;
+   border: none;
+   font-weight: 300;
+   padding: .7em 0;
+   border-radius: .2em;
+   cursor: pointer;
+   font-weight: 400;
+}
+.footer {
+    background-image: linear-gradient(-225deg, #000000e5 0%, #48187ce5 48%, #AC32E4 100%);
+    padding: 4rem 0;
+    text-align: center;
+    margin-top: 6rem;
+    
+}
+.footer  p {
+    color: white
+}
+
+.main {
+    padding-top: 10rem;
+}
+
+
+

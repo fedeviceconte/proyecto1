@@ -1,0 +1,16 @@
+.flex-container{
+    width: 245px;
+    height: 237px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid black;
+}
+.flex-container div{
+    background-color: aliceblue;
+    width: 100px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 2px solid black;
+}
