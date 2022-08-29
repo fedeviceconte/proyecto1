@@ -82,12 +82,12 @@ const Productos = (props) => {
                 <span className="promo">30% de descuento</span>              
               </div>
               </a>
-              </div>
             <div className="info-container">
               <h3>Set barbero Profesional</h3>
               <strong>$2.120</strong>
               <span className="rating">★★★★★</span>
               <a href="#" className="add-cart">Añadir al carrito</a>
+            </div>
             </div>
       </section>
 
