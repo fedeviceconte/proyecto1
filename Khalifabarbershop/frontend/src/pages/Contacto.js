@@ -1,7 +1,7 @@
 const Contacto = (props) => {
     return (
 <main className="main">
-<div className="container-form"/>
+<div className="container-form">
     <div className="info-form">
         <h2>Contactanos</h2>
         <p>¿Necesitás hablar con nosotros? ¡Estamos para ayudarte!
@@ -10,6 +10,7 @@ const Contacto = (props) => {
         <a href="#"><i className="fa fa-envelope"></i>federico.viceconte3@gmail.com</a>
         <a href="#"><i className="fa fa-map-marked"></i>Ciudad Evita,Bs As</a>
     </div>
+    
     <form action="#"  autocomplete="off"/>
         <input type="text" name="nombre"
         placeholder="Ingresa tu nombre"
@@ -20,7 +21,9 @@ const Contacto = (props) => {
         <textarea name="mensaje" placeholder="Ingresa tu mensaje"></textarea>
         <input type="submit" name="enviar" value="enviar mensaje" className="btn-enviar"/>
     <form/>
-<div/>
+    </div>
+
+
     
 </main>
     

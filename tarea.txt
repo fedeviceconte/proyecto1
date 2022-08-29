@@ -1,0 +1,314 @@
+1) ¿Cuáles son los nombres y la ocupación de cada uno de los empleados? 
+	
+Ana
+Desarrollador Web	
+
+Gonzalo
+Programador Senior
+	
+Juan
+Programador Senior	
+
+Maria
+Desarrollador Web
+	
+Alfredo
+Programador
+
+Juan
+Programador
+	
+Eduardo
+Programador	
+
+Alejandro
+Programador	
+
+Hernan
+Especialista Multimedia
+	
+
+Paublo
+Especialista Multimedia	
+
+Arturo
+Especialista Multimedia	
+
+Jimena
+Diseñador Web Senior	
+
+Roberto
+Administrador de Sistemas
+	
+Daniel
+Administrador de Sistemas
+	
+Miguel
+Ejecutivo de Ventas Senior
+	
+Monica
+Ejecutivo de Ventas
+	
+Alicia
+Ejecutivo de Ventas
+	
+Jose
+Ejecutivo de Ventas	
+
+Sabrina
+Gerente de Soporte Tecnico	
+
+Pedro
+Gerente de Finanzas
+2) ¿Cuál es el nombre y la edad de cada uno de los empleados?
+Ana
+27
+	
+Gonzalo
+32	
+
+Juan
+32
+	
+Maria
+26
+	
+Alfredo
+31
+	
+Juan
+34
+
+Eduardo
+25
+	
+Alejandro
+32
+	
+Hernan
+33
+	
+Paublo
+43
+	
+Arturo
+32
+	
+Jimena
+32
+	
+Roberto
+35
+
+Daniel
+34
+	
+Miguel
+36
+	
+Monica
+30	
+
+Alicia
+27	
+
+Jose
+27	
+
+Sabrina
+32	
+
+Pedro
+36	
+
+Mariano
+28
+3) ¿Cuál es el nombre y la edad de todos los programadores?
+Alfredo
+31
+Programador
+	
+
+Juan
+34
+Programador
+	
+
+Eduardo
+25
+Programador
+	
+
+Alejandro
+32
+Programador
+4) ¿Cuáles son los empleados de mas de 30 años?
+Gonzalo
+32
+
+Juan
+32
+	
+
+Alfredo
+31
+	
+
+Juan
+34
+	
+
+Alejandro
+32
+	
+
+Hernan
+33
+	
+
+Paublo
+43
+	
+
+Arturo
+32
+	
+
+Jimena
+32
+	
+
+Roberto
+35
+	
+
+Daniel
+34
+	
+
+Miguel
+36
+	
+
+Sabrina
+32
+	
+
+Pedro
+36
+5) ¿Cuál es el apellido y el mail de los empleados llamados Juan?
+Juan
+juan_hagan@bignet.com
+Juan
+juan@bignet.com
+6)¿Cuál es el nombre de las personas que trabajan como Programadores o Desarrolladores Web?
+
+Ana
+Desarrollador Web
+	
+Gonzalo
+Programador Senior
+	
+Juan
+Programador Senior
+	
+Maria
+Desarrollador Web	
+
+Alfredo
+Programador
+	
+Juan
+Programador	
+
+Eduardo
+Programador
+	
+Alejandro
+Programador
+
+Jimena
+Diseñador Web Senior
+7) Mostrar una lista (id_emp, nombre, apellido, trabajo) de las personas cuyo numero de empleado esté entre 15 y 20.
+15
+Miguel
+Harper
+Ejecutivo de Ventas Senior
+	
+
+16
+Monica
+Sanchez
+Ejecutivo de Ventas
+	
+
+17
+Alicia
+Simlai
+Ejecutivo de Ventas
+	
+
+18
+Jose
+Iriarte
+Ejecutivo de Ventas
+	
+
+19
+Sabrina
+Allende
+Gerente de Soporte Tecnico
+	
+
+20
+Pedro
+Campion
+Gerente de Finanzas
+8) ¿Cuáles son los Programadores que ganan menos de $80000?
+Programador
+75000
+Alfredo
+	
+Programador
+80000
+Juan
+	
+Programador
+75000
+Eduardo
+	
+Programador
+70000
+Alejandro
+9)¿Cuáles son los Programadores que ganan entre $75000 y  $90000?
+Programador
+75000
+Alfredo
+	
+Programador
+80000
+Juan
+	
+Programador
+75000
+Eduardo
+10) ¿Cuáles son los trabajadores cuyo apellido comienza con S?
+	
+Eduardo
+Sacan
+
+Paublo
+Simon
+
+Monica
+Sanchez
+	
+Alicia
+Simlai
+) Modificar el salario de Daniel Gutierrez a 90000.
+Daniel
+Gutierrez
+Administrador de Sistemas
+34
+900000
+daniel@bignet.com
